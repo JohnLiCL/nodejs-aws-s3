@@ -15,6 +15,7 @@ crear Usuario --> Seleccionar Politica
 npm i dotenv
 
 crear archivo .env y agregar los valores a las variables obtenidas desde la cuenta AWS
+
 AWS_BUCKET_NAME=
 AWS_BUCKET_REGION=
 AWS_PUBLIC_KEY=
